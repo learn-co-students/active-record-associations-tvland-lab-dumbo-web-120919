@@ -42,7 +42,7 @@ or a model configured.
   relationship with these database table columns.
 - Write a migration that adds the column `catchphrase` to your character model.
 
-### Associations
+### Associations 
 
 - Associate the `Actor` model with the `Character` and `Show` model. An actor
   should have many characters and many shows through characters.
